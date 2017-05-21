@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<oor:component-data oor:package="org.openoffice.Office" oor:name="Addons"
+	xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<node oor:name="TestLocalSettings">
+
+		<node oor:name="TestLocalSettings">
+			<node oor:name="org.libreoffice.boustrophedon.ExtLauncher.test1" oor:op="replace">
+				<prop oor:name="xs:string" oor:type="xs:string">
+					<value>Wow! it works!</value>
+				</prop>
+				<node oor:name="test2">
+					<prop oor:name="xs:string">
+						<value>Wow! it works too!</value>
+					</prop>
+				</node>
+			</node>
+		</node>
+
+	</node>
+</oor:component-data>

@@ -1,0 +1,12 @@
+#UNO project configuration file
+#Mon May 15 19:03:11 PDT 2017
+project.srcdir=/source
+regclassname=org.libreoffice.boustrophedon.comp.RegistrationHandler
+javaversion=java5
+project.sdk=5.3.3.2
+project.ooo=LibreOffice 5.3
+project.implementation=comp
+project.build=build
+project.language=Java
+project.prefix=org.libreoffice.boustrophedon
+project.idl=/idl

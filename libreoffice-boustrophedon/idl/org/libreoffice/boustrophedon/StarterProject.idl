@@ -1,0 +1,12 @@
+#ifndef __org_libreoffice_boustrophedon_ExtLauncher_idl__
+#define __org_libreoffice_boustrophedon_ExtLauncher_idl__
+
+#include <com/sun/star/task/XJobExecutor.idl>
+module org { module libreoffice { module boustrophedon { 	
+
+	service ExtLauncher : com::sun::star::task::XJobExecutor {
+
+	};
+
+ }; }; };
+#endif
